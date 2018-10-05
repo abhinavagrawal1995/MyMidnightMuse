@@ -2,9 +2,9 @@
 
 This is the source code for the website - MyMidnightMuse
 
-## Instructions-
+## Instructions
 
-# Uploading new posts-
+# Uploading new posts
   All posts need to have a header in this format -
 
   -\--
@@ -21,7 +21,8 @@ This is the source code for the website - MyMidnightMuse
   
   Upload it in the folder *_posts*
     
-# Uploading new paintings for the gallery-
+# Uploading new paintings for the gallery
+
 This has two parts.
 
 1. The actual image- a jpeg/png file, with a (preferably) short name. This will be uploaded in the *img* folder.
